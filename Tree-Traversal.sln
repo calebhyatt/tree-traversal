@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caleb-Hyatt_Graph-Final", "Caleb-Hyatt_Graph-Final\Caleb-Hyatt_Graph-Final.csproj", "{8D4E3EC9-5974-457D-835D-E4EF306E1E7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tree-Traversal", "Caleb-Hyatt_Graph-Final\Tree-Traversal.csproj", "{8D4E3EC9-5974-457D-835D-E4EF306E1E7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
